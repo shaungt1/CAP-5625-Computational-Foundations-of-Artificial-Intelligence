@@ -1,0 +1,2 @@
+# CAP-5625-Computational-Foundations-of-Artificial-Intelligence
+This course covers the mathematical and programming foundations of artificial intelligence (AI) and machine learning (ML) using contemporary programming languages and tools. As a result, students develop familiarity with mathematical methods (and associated notation, software packages and libraries) that are widely used in AI and ML projects and literature
